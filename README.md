@@ -1,6 +1,6 @@
 
 !--
-**ljharb/ljharb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mikasa/mikasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -35,10 +35,54 @@ I've been a part of TC39 (the committee that writes the specification for JavaSc
   </tr>
   <tr><th colspan=4><img width="1000" height="1"></th></tr>
   <tr>
-   <th><a href="https://github.com/enzymejs/">enzyme</a> organization</th>
-   <td colspan=3><a href="https://github.com/enzymejs/enzyme">enzyme</a></td>
+   <th><a href="https://github.com/mikasaid/">enzyme</a> organization</th>
+   <td colspan=3><a href="https://github.com/mikasajs/enzyme">enzyme</a></td>
   </tr>
   <tr>
+<tr>
+
+   <th><a href="https://github.com/es-shims">es-shims</a> organization</th>
+
+   <td><a href="https://github.com/es-shims/es5-shim">es5-shim</a></td>
+
+   <td><a href="https://github.com/paulmillr/es6-shim">es6-shim</a></td>
+
+   <td><a href="https://github.com/ljharb/object.assign">object.assign</a></td>
+
+  </tr>
+
+  <tr>
+
+   <th><a href="https://github.com/inspect-js/">inspect-js</a> organization</th>
+
+   <td><a href="https://github.com/inspect-js/object-inspect">object-inspect</a></td>
+
+   <td colspan=2><a href="https://github.com/inspect-js/node-deep-equal">deep-equal</a></td>
+
+  </tr>
+
+  <tr>
+
+   <th><a href="https://github.com/jsx-eslint">jsx-eslint</a> organization</th>
+
+   <td><a href="https://github.com/jsx-eslint/eslint-plugin-react">eslint-plugin-react</a></td>
+
+   <td colspan=2><a href="https://github.com/jsx-eslint/eslint-plugin-jsx-a11y">eslint-plugin-jsx-a11y</a></td>
+
+  </tr>
+
+  <tr>
+
+   <th><a href="https://github.com/import-js">import-js</a> organization</th>
+
+   <td colspan=3><a href="https://github.com/import-js/eslint-plugin-import">eslint-plugin-import</a></td>
+
+  </tr>
+
+ </tbody>
+
+</table>
+
 
 
 

@@ -4,7 +4,7 @@
 You can use the [programmer on githuh![58392246](https://user-images.githubusercontent.com/58392246/173200230-ab507671-357e-48e3-a683-1f60f1c8fb09.png)
 ](https://github.com/mikasaid/mikasaid/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [mikasa ID](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [mikasa ID](https://dipqi.net) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 

@@ -1,8 +1,10 @@
+[Lampiran perintah_melaksanakan tugas cpns_fix pdf.pdf](https://github.com/mikasaid/mikasaid/files/8884502/Lampiran.perintah_melaksanakan.tugas.cpns_fix.pdf.pdf)
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mikasaid/mikasaid/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [programmer on githuh![58392246](https://user-images.githubusercontent.com/58392246/173200230-ab507671-357e-48e3-a683-1f60f1c8fb09.png)
+](https://github.com/mikasaid/mikasaid/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [mikasa ID](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -28,7 +30,7 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Mikasa ID
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mikasaid/mikasaid/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 

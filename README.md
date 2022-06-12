@@ -1,5 +1,6 @@
-![standar-keamanan-website](https://user-images.githubusercontent.com/58392246/173192904-8e2b2068-f6c3-4cd9-a06a-86b3717e7eae.jpg)
-- 🔭 I’m currently working on my personal projects, you can check <a href="https://saugi.me">my personal website</a>
+![1654422940891](https://user-images.githubusercontent.com/58392246/173215826-96a09716-af9f-40b0-b288-8f7088f7ca22.jpg)
+
+- 🔭 I’m currently working on my personal projects, you can check <a href="https://mikasaid.github.io/mikasaid">my personal website</a>
 - ⚡ Excited to create open-source projects
 - 🌱 I’m currently learning web animations and interactivity
 - 😄 I'm natively speak Indonesian and fluently speak english.

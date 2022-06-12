@@ -13,18 +13,18 @@
 
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-<link rel="stylesheet" href="https://tegalsec.org/assets/css/owl.theme.default.min.css">
-<link rel="stylesheet" href="https://tegalsec.org/assets/css/owl.carousel.min.css">
-<link rel="stylesheet" href="https://tegalsec.org/assets/css/magnific-popup.min.css">
-<link rel="stylesheet" href="https://tegalsec.org/assets/css/animate.min.css">
-<link rel="stylesheet" href="https://tegalsec.org/assets/css/boxicons.min.css">
-<link rel="stylesheet" href="https://tegalsec.org/assets/css/flaticon.css">
-<link rel="stylesheet" href="https://tegalsec.org/assets/css/meanmenu.min.css">
-<link rel="stylesheet" href="https://tegalsec.org/assets/css/nice-select.min.css">
-<link rel="stylesheet" href="https://tegalsec.org/assets/css/odometer.min.css">
-<link rel="stylesheet" href="https://tegalsec.org/assets/css/style.css">
-<link rel="stylesheet" href="https://tegalsec.org/assets/css/responsive.css">
-<link rel="stylesheet" href="https://tegalsec.org/assets/css/awards.css"> 
+<link rel="stylesheet" href="https://mikasaid.github.io/assets/css/owl.theme.default.min.css">
+<link rel="stylesheet" href="https://mikasaid.github.io/assets/css/owl.carousel.min.css">
+<link rel="stylesheet" href="https://mikasaid.github.io/assets/css/magnific-popup.min.css">
+<link rel="stylesheet" href="https://mikasaid.github.io/assets/css/animate.min.css">
+<link rel="stylesheet" href="https://mikasaid.github.io/assets/css/boxicons.min.css">
+<link rel="stylesheet" href="https://mikasaid.github.io/assets/css/flaticon.css">
+<link rel="stylesheet" href="https://mikasaid.github.io/assets/css/meanmenu.min.css">
+<link rel="stylesheet" href="https://mikasaid.github.io/assets/css/nice-select.min.css">
+<link rel="stylesheet" href="https://mikasaid.github.io/assets/css/odometer.min.css">
+<link rel="stylesheet" href="https://mikasaid.github.io/assets/css/style.css">
+<link rel="stylesheet" href="https://mikasaid.github.io/assets/css/responsive.css">
+<link rel="stylesheet" href="https://mikasaid.github.io/assets/css/awards.css"> 
 <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/LoliC0d3/LogoTegal1337/master/LOGO_COLOR1%40512.png">
 </head>
 <body>
@@ -43,7 +43,7 @@
                 <div class="col-lg-6 col-sm-8">
                     <ul class="header-content-left">
                         <li>
-                            <a href="mailto:contact@tegalsec.org">
+                            <a href="mailto:contact@mikasaid">
                                 <i class="bx bx-envelope"></i>
                                 Email: <span>contact@mikasa@id.span>
                             </a>

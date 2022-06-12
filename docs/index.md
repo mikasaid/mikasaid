@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">    
-    <title>Tegal N00bs Hacker | Home
+    <title>Tegal N00bs MIKASAID | Home
 </title>
     
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700">
@@ -45,7 +45,7 @@
                         <li>
                             <a href="mailto:contact@tegalsec.org">
                                 <i class="bx bx-envelope"></i>
-                                Email: <span>contact@tegalsec.org</span>
+                                Email: <span>contact@mikasa@id.span>
                             </a>
                         </li>
                         <li>

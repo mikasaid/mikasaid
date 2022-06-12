@@ -1,5 +1,69 @@
-![download](https://user-images.githubusercontent.com/58392246/173224062-9f1a407f-4dea-42f8-b9ab-df927c881baa.jpeg)
-![1654422940891](https://user-images.githubusercontent.com/58392246/173215826-96a09716-af9f-40b0-b288-8f7088f7ca22.jpg)
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+  xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
+
+                      http://maven.apache.org/xsd/settings-1.0.0.xsd">
+
+  <activeProfiles>
+
+    <activeProfile>github</activeProfile>
+
+  </activeProfiles>
+
+  <profiles>
+
+    <profile>
+
+      <id>github</id>
+
+      <repositories>
+
+        <repository>
+
+          <id>central</id>
+
+          <url>https://repo1.maven.org/maven2</url>
+
+        </repository>
+
+        <repository>
+
+          <id>github</id>
+
+          <url>https://maven.pkg.github.com/OWNER/REPOSITORY</url>
+
+          <snapshots>
+
+            <enabled>true</enabled>
+
+          </snapshots>
+
+        </repository>
+
+      </repositories>
+
+    </profile>
+
+  </profiles>
+
+  <servers>
+
+    <server>
+
+      <id>github</id>
+
+      <username>USERNAME</username>
+
+      <password>TOKEN</password>
+
+    </server>
+
+  </servers>
+
+</settings>
+
 
 - 🔭 I’m currently working on my personal projects, you can check <a href="https://mikasaid.github.io/mikasaid">my personal website</a>
 - ⚡ Excited to create open-source projects

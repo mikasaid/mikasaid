@@ -1,4 +1,4 @@
-![Uploading 68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966.gif…]()
+
 
 <a href="https://github.com/austenstone">
   <img align="right" width="31%" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg">

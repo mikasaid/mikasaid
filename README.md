@@ -1,4 +1,3 @@
-![1655227672218](https://user-images.githubusercontent.com/58392246/173737325-d6ab58a1-7994-400f-87a6-b3387a242bf5.jpg)
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://mikasaid.github.io/mikasaid)
 <h1 align="center">Hi 👋, I'm Mikasa ID</h1>
 <h3 align="center">A passionate frontend developer from India</h3>

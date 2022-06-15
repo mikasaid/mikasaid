@@ -2,7 +2,7 @@
   <img align="right" width="31%" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg">
 </a>
 
-<h3>Hi, I'm <a href="https://github.com/mikasaid">Austen Stone</a><br>an Engineer and Designer</h3>
+<h3>Hi, I'm <a href="https://github.com/mikasaid">MikasaID Ft Mr.Haxor</a><br>an English  and Designer</h3>
 <h6>I love working with people to solve problems using automation and code.</h6>
 
 <br>

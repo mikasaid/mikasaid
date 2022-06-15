@@ -2,7 +2,7 @@
   <img align="right" width="31%" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg">
 </a>
 
-<h3>Hi, I'm <a href="https://github.com/austenstone">Austen Stone</a><br>an Engineer and Designer</h3>
+<h3>Hi, I'm <a href="https://github.com/mikasaid">Austen Stone</a><br>an Engineer and Designer</h3>
 <h6>I love working with people to solve problems using automation and code.</h6>
 
 <br>
@@ -15,7 +15,7 @@
 
 ### My Work
 #### GitHub
-* [Actions Published by @austenstone](https://github.com/marketplace?query=publisher%3Aaustenstone)
+* [Actions Published by @MikasaIDFTMR.HAXOR](https://github.com/marketplace?query=publisher%3Aaustenstone)
 * [Actions Typescript Template](https://github.com/austenstone/action-typescript)
 * [Actions JavaScript Template](https://github.com/austenstone/action-javascript)
 * [Codespace for Typescript Angular](https://github.com/austenstone/angular-codespace)
@@ -33,7 +33,7 @@
 
 ###### Learn
 * [LearnXinYminutes](http://learnxinyminutes.com/)
-* [Fireship IO YouTube](https://www.youtube.com/c/Fireship)
+* [Fireship IO YouTube](https://www.youtube.com/c/djvontem)
 * [The Modern JavaScript Tutorial](https://javascript.info/)
 
 ###### Practice

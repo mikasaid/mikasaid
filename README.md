@@ -8,18 +8,6 @@
 ### Contact 🤙
 *Almost* always available via text, email, slack!
 ---
-### My Work
-#### GitHub
-* [Actions Published by @MikasaIDFTMR.HAXOR](https://github.com/marketplace?query=publisher%3Aaustenstone)
-* [Actions Typescript Template](https://github.com/austenstone/action-typescript)
-* [Actions JavaScript Template](https://github.com/austenstone/action-javascript)
-* [Codespace for Typescript Angular](https://github.com/austenstone/angular-codespace)
-* [Submodules Migration Utility](https://github.com/austenstone/migrate-submodules)
-* [GitHub GraphQL API Usage/Examples](https://github.com/austenstone/gh-api-graphql)
-* [Syncing Repositories Using Actions](https://github.com/austenstone/sample1)
-* [SAST Benchmark Utility](https://github.com/austenstone/sast-benchmark)
-* [Codespaces dotfiles](https://github.com/austenstone/dotfiles)
-[![Github](https://img.shields.io/github/followers/appleboy?label=Follow&style=social)](https://github.com/appleboy)
 
 - 🔭 I’m currently working on Mediatek as Software Enginner
 - Check my 🖋 [Chinese blog](http://blog.wu-boy.com/) or 🌱 [Udemy Online Course](https://www.udemy.com/user/bo-yi-wu-2/)

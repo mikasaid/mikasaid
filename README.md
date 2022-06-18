@@ -1,17 +1,11 @@
-<a href="https://github.com/austenstone">
-  <img align="right" width="31%" src="https://github.githubassets.com/images/modules/site/home/astro-mona.svg">
-</a>
-<h3>Hi, I'm <a href="https://github.com/mikasaid">MikasaID Ft Mr.Haxor</a><br>an English  and Designer</h3>
-<h6>I love working with people to solve problems using automation and code.</h6>
-<br>
-<br>
-### Contact 🤙
-*Almost* always available via text, email, slack!
----
+### Hey 👋, I'm appleboy
+
+[![Github](https://img.shields.io/github/followers/appleboy?label=Follow&style=social)](https://github.com/mikasaid)
 
 - 🔭 I’m currently working on Mediatek as Software Enginner
 - Check my 🖋 [Chinese blog](http://blog.wu-boy.com/) or 🌱 [Udemy Online Course](https://www.udemy.com/user/bo-yi-wu-2/)
-
+- 🔭 I’m currently working on Mediatek as Software Enginner
+- Check my 🖋 [Chinese blog](http://blog.wu-boy.com/) or 🌱 [Udemy Online Course](https://www.udemy.com/user/bo-yi-wu-2/)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikasaid&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mikasaid&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mikasaid&theme=github)

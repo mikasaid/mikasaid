@@ -1,3 +1,4 @@
+https://thumbs.gfycat.com/HeavyLiquidAnnelid-size_restricted.gif
 ### Hey 👋, I'm mikasaid
 [![Github](https://img.shields.io/github/followers/mikasaid?label=Follow&style=social)](https://github.com/mikasaid)
 - 🔭 I’m currently working on Mediatek as Software Enginner
@@ -20,4 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://www.youtube.com/watch?v=88n1ZNprXPs

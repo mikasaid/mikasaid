@@ -14,20 +14,3 @@
   <samp>
     [<a href="https://ko-fi.com/mikasaackeman">ko-fix</a>]
     [<a href="mikasaid@proton.me">e-mail</a>]
-
-  </samp>
-
-</p>
-
-<h2></h2><br>
-
-```sh
-
-curl -sL https://git.io/JKsMD | gpg --import
-
-
-```console
-
-```B9BD C551 5AF4 9F42 CBC8 CF39 7D03 DB4D 862E A826
-
-</details>

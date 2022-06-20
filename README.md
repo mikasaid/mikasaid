@@ -1,4 +1,3 @@
-![36b6227404cba80a465e3460b8853928](https://user-images.githubusercontent.com/58392246/174553858-4e916414-082f-44a3-84d1-31f31b99fb38.jpg)
 ### Hey 👋, I'm mikasaid
 [![Github](https://img.shields.io/github/followers/mikasaid?label=Follow&style=social)](https://github.com/mikasaid)
 - 🔭 I’m currently working on Mediatek as Software Enginner
@@ -21,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://www.youtube.com/watch?v=88n1ZNprXPs

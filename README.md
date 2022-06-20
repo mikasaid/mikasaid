@@ -29,7 +29,4 @@ curl -sL https://git.io/JKsMD | gpg --import
 ```console
 B9BD C551 5AF4 9F42 CBC8 CF39 7D03 DB4D 862E A826
 ```
-
 </details>
-
-![HeavyLiquidAnnelid-size_restricted](https://user-images.githubusercontent.com/58392246/174593850-898e890e-c8f8-4f38-89df-5b137c67121d.gif

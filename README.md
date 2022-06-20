@@ -1,4 +1,5 @@
-https://thumbs.gfycat.com/HeavyLiquidAnnelid-size_restricted.gif
+![HeavyLiquidAnnelid-size_restricted](https://user-images.githubusercontent.com/58392246/174593765-1e9f6d01-17d7-4110-980a-a13db958b47b.gif)
+
 ### Hey 👋, I'm mikasaid
 [![Github](https://img.shields.io/github/followers/mikasaid?label=Follow&style=social)](https://github.com/mikasaid)
 - 🔭 I’m currently working on Mediatek as Software Enginner

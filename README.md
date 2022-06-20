@@ -15,7 +15,7 @@
 <h2></h2><br>
 <p align="center">
   <samp>
-    [<a href="https://ko-fi.com/mikasaackeman">matrix</a>]
+    [<a href="https://ko-fi.com/mikasaackeman">ko-fix</a>]
     [<a href="mikasaid@proton.me">e-mail</a>]
   </samp>
 </p>

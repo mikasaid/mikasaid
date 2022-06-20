@@ -1,7 +1,7 @@
 ### Hey 👋, I'm mikasaid
 [![Github](https://img.shields.io/github/followers/mikasaid?label=Follow&style=social)](https://github.com/mikasaid)
 - 🔭 I’m currently working on Mediatek as Software Enginner
-- Check my 🖋 [Chinese blog](http://smpmuhammaddiyah5lubukpakam.mysch.id//) or 🌱 [Udemy Online Course](http://mikasaid.mysch.id//)
+- Check my 🖋 [WEBSITE SEKOLAH](http://smpmuhammaddiyah5lubukpakam.mysch.id//) or 🌱 [website Sendiri](http://mikasaid.mysch.id//)
 - 🔭 I’m currently working on Mediatek as Software Enginner 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikasaid&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mikasaid&theme=github)

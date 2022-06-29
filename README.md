@@ -1,7 +1,7 @@
 <p align="left"><b><samp>「</samp></b></p>
   <p align="center">
     <samp>
-      as good as people don't be traitors okay I don't need good people
+      .as good as people don't be traitors okay I don't need good people.
   </p>
 <p align="right"><b><samp>」</samp></b></p>
 

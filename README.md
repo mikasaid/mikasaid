@@ -2,8 +2,6 @@
   <p align="center">
     <samp>
       as good as people don't be traitors okay I don't need good people
-
-    </samp>
   </p>
 <p align="right"><b><samp>」</samp></b></p>
 

@@ -1,4 +1,3 @@
-![266338028_988785611851323_1490459007891906038_n](https://user-images.githubusercontent.com/58392246/176414947-619a4395-ca4f-4088-af3a-1235aed5bd74.jpg)
 <p align="left"><b><samp>「</samp></b></p>
   <p align="center">
     <samp>

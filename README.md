@@ -15,7 +15,7 @@
 <h2></h2><br>
 <p align="center">
   <samp>
-    [<a href="https://www.deviantart.com/mrghostfamily">matrix</a>]
+    [<a href="https://www.deviantart.com/mrghostfamily">deviantart</a>]
     [<a href="mrghostfamily1@gmail.com">e-mail</a>]
   </samp>
 </p>

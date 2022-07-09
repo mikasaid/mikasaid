@@ -23,8 +23,6 @@
 <h2></h2><br>
 
 ```sh
-curl -sL https://git.io/JKsMD | gpg --import
-```
 
 ```console
 B9BD C551 5AF4 9F42 CBC8 CF39 7D03 DB4D 862E A826

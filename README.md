@@ -1,6 +1,3 @@
-y and 'jittery' text that can only be described as 'overly cute'. The text reads 'Welcome to my profile!'">
-</p>
-
 <p align="left"><b><samp>「</samp></b></p>
   <p align="center">
     <samp>
